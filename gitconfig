@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = lukas.lenci@gmail.com
+	name = Lucas Lenci
